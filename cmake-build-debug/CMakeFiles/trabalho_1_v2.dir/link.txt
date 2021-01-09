@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/trabalho_1_v2.dir/main.c.o  -o trabalho_1_v2.exe -Wl,--out-implib,libtrabalho_1_v2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

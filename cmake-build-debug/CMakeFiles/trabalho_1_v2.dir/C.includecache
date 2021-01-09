@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Harley Junior/CLionProjects/trabalho_1_v2/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+timer.h
+/cygdrive/c/Users/Harley Junior/CLionProjects/trabalho_1_v2/timer.h
+
+/cygdrive/c/Users/Harley Junior/CLionProjects/trabalho_1_v2/timer.h
+sys/time.h
+-
+
